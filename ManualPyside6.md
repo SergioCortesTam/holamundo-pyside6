@@ -1,6 +1,7 @@
 # Hola Mundo con PySide6
 
-Este repositorio contiene una aplicación simple de "Hola Mundo" utilizando PySide6. A continuación, encontrarás las instrucciones para instalar y ejecutar la aplicación en Windows y Linux.
+Este repositorio contiene una aplicación simple de "Hola Mundo" utilizando PySide6. A continuación, encontrarás las instrucciones para instalar y ejecutar la aplicación en Windows y Linux. Prueba2
+
 
 ## Requisitos
 
